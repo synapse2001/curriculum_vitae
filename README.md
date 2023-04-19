@@ -1,2 +1,2 @@
-# resume
-Hosting my resume as a pdf file. 
+# Resume
+Hosting my resume as a pdf file on Web
